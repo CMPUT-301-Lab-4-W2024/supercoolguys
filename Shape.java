@@ -1,6 +1,7 @@
 abstract class Shape {
-    int x;
-    int y;
+    //made the ints private to allow for proper encapuslation
+    private int x;
+    private int y;
 
     public Shape(int x, int y){
         this.x =x;
