@@ -4,3 +4,6 @@
 # Ignore build folders
 /build
 /app/build
+
+# Ignore .DS_Store
+**.DS_Store
