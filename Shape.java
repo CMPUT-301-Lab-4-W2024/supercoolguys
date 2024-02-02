@@ -2,9 +2,7 @@ abstract class Shape {
     //made the ints private to allow for proper encapuslation
     private int x;
     private int y;
-    String colour = "$PUT_YOUR_CHOICE_OF_COLOR";
-
-    String color = "red";
+    String colour = "red";
 
     public Shape(int x, int y){
         this.x = x;
