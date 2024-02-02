@@ -3,7 +3,6 @@ abstract class Shape {
     private int x;
     private int y;
 
-    //color
     String colour = "$PUT_YOUR_CHOICE_OF_COLOR";
 
     public Shape(int x, int y){
