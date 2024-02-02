@@ -3,6 +3,7 @@ abstract class Shape {
     private int x;
     private int y;
 
+    //color
     String colour = "blue";
 
     public Shape(int x, int y){
